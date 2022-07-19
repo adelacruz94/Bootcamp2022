@@ -9,6 +9,7 @@ namespace prueba
     {
         static void Main(string[] args)
         {
+            Console.Write("HOLA MYUNDO");
         }
     }
 }
